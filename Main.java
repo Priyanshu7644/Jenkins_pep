@@ -6,6 +6,6 @@ public class Main {
         System.out.println("the same line.");
 
         int number = 2026;
-        System.out.println("The current year is " + number);
+        System.out.print("The current year is " + number);
     }
 }
